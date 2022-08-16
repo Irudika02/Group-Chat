@@ -30,7 +30,7 @@
                                 <Font size="15.0" />
                             </font>
                         </Button>
-                  <Label layoutX="287.0" layoutY="160.0" text="Get Start !" textFill="#432323">
+                  <Label layoutX="287.0" layoutY="160.0" text="Get Start !" textFill="#220f0f">
                      <font>
                         <Font name="System Bold" size="20.0" />
                      </font>
